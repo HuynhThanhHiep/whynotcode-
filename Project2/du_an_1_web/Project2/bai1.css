@@ -1,0 +1,127 @@
+.box-1 {
+  width: 360px;
+  height: 800px;
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.input-01 {
+  width: 312px;
+  height: 48px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
+.input-02 {
+  width: 312px;
+  height: 48px;
+  outline: none;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  background-position: 270px 13px;
+  background-repeat: no-repeat;
+  background-image: url(./image/eye_password.png);
+}
+.input-03 {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 21px;
+  width: 312px;
+  height: 48px;
+  border-radius: 10px;
+  background-color: rgba(14, 100, 210, 1);
+}
+.text-1 {
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 36px;
+}
+.text-2 {
+  color: rgba(47, 137, 252, 1);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  font-family: sans-serif;
+}
+.text-3 {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  font-family: sans-serif;
+  margin-left: -50px;
+}
+.text-4 {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  font-family: sans-serif;
+  color: rgba(47, 137, 252, 1);
+  margin-top: -30px;
+  margin-left: 150px;
+}
+.boder-1 {
+  width: 139px;
+  margin-top: 30px;
+  margin-left: -165px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.boder-2 {
+  width: 139px;
+  margin-top: -30px;
+  margin-left: 175px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.text-5 {
+  margin-top: -12px;
+  margin-left: 5px;
+}
+.input-04 {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 600;
+  line-height: 21px;
+  width: 312px;
+  height: 48px;
+  font-family: sans-serif;
+  background-image: url(./image/facebook\ logo.png);
+  margin-top: 30px;
+  border-radius: 10px;
+  background-color: rgba(14, 100, 210, 1);
+  background-repeat: no-repeat;
+  background-position: 9px 7px;
+}
+.input-05 {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 600;
+  line-height: 21px;
+  width: 312px;
+  height: 48px;
+  font-family: sans-serif;
+  background-image: url(./image/google\ logo.png);
+  margin-top: 30px;
+  border-radius: 10px;
+  background-color: rgba(14, 100, 210, 1);
+  background-repeat: no-repeat;
+  background-position: 9px 7px;
+}
+.input-06 {
+  margin-top: 70px;
+  width: 200px;
+  height: 100px;
+  display: flex;
+  margin-right: 110px;
+}
+.input-06 p {
+  font-size: 12px;
+  margin-top: 0px;
+  line-height: 18px;
+  font-family: sans-serif;
+  font-weight: 700;
+  margin-left: 5px;
+}
